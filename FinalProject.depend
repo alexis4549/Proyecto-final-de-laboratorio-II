@@ -1,0 +1,239 @@
+# depslib dependency file v1.0
+1626924572 source:c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"classFecha.h"
+	"classCliente.h"
+	"classProducto.h"
+	"classPedidos_Cabecera.h"
+	"classPedidos_Detalle.h"
+	"menuCliente.h"
+	"menuProducto.h"
+	"menuPedido.h"
+	"rlutil.h"
+	"utilidades.h"
+
+1626043453 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\classfecha.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1626920341 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\classcliente.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"classFecha.h"
+	"funciones.h"
+	"rlutil.h"
+	"utilidades.h"
+
+1626229802 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\classproducto.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"utilidades.h"
+
+1636632977 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\classpedidos_cabecera.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"utilidades.h"
+
+1626876200 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\classpedidos_detalle.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+
+1626924729 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\menucliente.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+
+1626924729 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\menuproducto.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+
+1626924727 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\menupedido.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+
+1626303489 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\funciones.h
+
+1571584339 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1626829234 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\finalproject\utilidades.h
+
+1638458778 source:c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"classFecha.h"
+	"classCliente.h"
+	"classProducto.h"
+	"classPedidos_Cabecera.h"
+	"classPedidos_Detalle.h"
+	"menuCliente.h"
+	"menuProducto.h"
+	"menuPedido.h"
+	"menuReportes.h"
+	"menuConfiguraciones.h"
+	"rlutil.h"
+	"utilidades.h"
+
+1626043453 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\classfecha.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1637949783 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\classcliente.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"classFecha.h"
+	"funciones.h"
+	"rlutil.h"
+	"utilidades.h"
+
+1626303489 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\funciones.h
+
+1571584339 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1626829234 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\utilidades.h
+
+1637949752 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\classproducto.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"utilidades.h"
+
+1637949752 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\classpedidos_cabecera.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"utilidades.h"
+
+1638152816 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\classpedidos_detalle.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+
+1638067249 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\menucliente.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+
+1638153417 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\menuproducto.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+
+1638148168 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\menupedido.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+
+1638460470 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\menureportes.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"classFecha.h"
+	"classCliente.h"
+	"classProducto.h"
+	"classPedidos_Cabecera.h"
+	"classPedidos_Detalle.h"
+	"menuCliente.h"
+	"menuProducto.h"
+	"menuPedido.h"
+	"rlutil.h"
+	"utilidades.h"
+
+1638065352 c:\users\alexi\downloads\tsp frgp\segundo cuatrimestre\4-laboratorio 2\tp final\alexisarielfranco\menuconfiguraciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"classFecha.h"
+	"classCliente.h"
+	"classProducto.h"
+	"classPedidos_Cabecera.h"
+	"classPedidos_Detalle.h"
+	"menuCliente.h"
+	"menuProducto.h"
+	"menuPedido.h"
+	"rlutil.h"
+	"utilidades.h"
+
